@@ -6,6 +6,9 @@
 #include <QTcpSocket>
 #include "gpio.h"
 
+// HUSOVIC LEDserver.h
+
+
 class LedServer : public QObject
 {
     Q_OBJECT
